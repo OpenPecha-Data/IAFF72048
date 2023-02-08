@@ -1,0 +1,135 @@
+id: 9848521b4da84d69a128774f31bc8e22
+annotation_type: index
+revision: '00001'
+annotations:
+  8cfb0abeffa54a7f8b5370b04f350c9f:
+    base: C786.txt
+    Chapters:
+    - title: 1. Sarvākārajñatācaryā
+      span:
+        start: 0
+        end: 927
+    - title: 2. Śakra
+      span:
+        start: 928
+        end: 1386
+    - title: 3. Aprameyaguṇadhāraṇapāramitāstūpasatkāra
+      span:
+        start: 1387
+        end: 1686
+    - title: 4. Guṇaparikīrtana
+      span:
+        start: 1687
+        end: 1949
+    - title: 5. Puṇyaparyāya
+      span:
+        start: 1950
+        end: 2276
+    - title: 6. Anumodanā
+      span:
+        start: 2277
+        end: 2604
+    - title: 7. Niraya
+      span:
+        start: 2605
+        end: 2867
+    - title: 8. Viśuddhi
+      span:
+        start: 2868
+        end: 3043
+    - title: 9. Stuti
+      span:
+        start: 3044
+        end: 3129
+    - title: 10. Dhāraṇīguṇa
+      span:
+        start: 3130
+        end: 3498
+    - title: 11. Mārakarma
+      span:
+        start: 3499
+        end: 3915
+    - title: 12. Lokasaṃdarśana
+      span:
+        start: 3916
+        end: 4301
+    - title: 13. Acintya
+      span:
+        start: 4302
+        end: 4394
+    - title: 14. Aupamya
+      span:
+        start: 4395
+        end: 4736
+    - title: 15. Deva
+      span:
+        start: 4737
+        end: 5019
+    - title: 16. Tathatā
+      span:
+        start: 5020
+        end: 5240
+    - title: 17. Avinivartanīyaliṅgākāra
+      span:
+        start: 5241
+        end: 5506
+    - title: 18. Śūnyatā
+      span:
+        start: 5507
+        end: 5789
+    - title: 19. Gaṅgadevābhaginī
+      span:
+        start: 5790
+        end: 6075
+    - title: 20. Upāyakauśalyamīmāṃsā
+      span:
+        start: 6076
+        end: 6884
+    - title: 21. Mārakarma
+      span:
+        start: 6885
+        end: 7169
+    - title: 22. Kalyāṇamitra
+      span:
+        start: 7170
+        end: 7618
+    - title: 23. Śakra
+      span:
+        start: 7619
+        end: 7780
+    - title: 24. Abhimāna
+      span:
+        start: 7781
+        end: 8000
+    - title: 25. Śikṣā
+      span:
+        start: 8001
+        end: 8220
+    - title: 26. Māyopama
+      span:
+        start: 8221
+        end: 8505
+    - title: 27. Sāra
+      span:
+        start: 8506
+        end: 8822
+    - title: 28. Avakīrṇakusuma
+      span:
+        start: 8823
+        end: 9075
+    - title: 29. Anugama
+      span:
+        start: 9076
+        end: 9536
+    - title: 30. Sadāprarudita
+      span:
+        start: 9537
+        end: 10014
+    - title: 31. Dharmodgata
+      span:
+        start: 10015
+        end: 10620
+    - title: 32. Parīndanā
+      span:
+        start: 10621
+        end: 10885
